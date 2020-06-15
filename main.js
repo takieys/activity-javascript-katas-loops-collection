@@ -9,7 +9,7 @@
   let counter = 1
   while (counter <= 20) {
     console.log(counter)
-    counter += 1
+    counter = counter + 1
   }
 
 /** KATA 02 ⮕
